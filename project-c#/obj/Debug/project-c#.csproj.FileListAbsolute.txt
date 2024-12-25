@@ -1,0 +1,7 @@
+D:\Users\ohood\source\repos\project-c#\project-c#\obj\Debug\project-c#.csproj.AssemblyReference.cache
+D:\Users\ohood\source\repos\project-c#\project-c#\obj\Debug\project-c#.csproj.CoreCompileInputs.cache
+D:\Users\ohood\source\repos\project-c#\project-c#\bin\Debug\project-c#.exe.config
+D:\Users\ohood\source\repos\project-c#\project-c#\bin\Debug\project-c#.exe
+D:\Users\ohood\source\repos\project-c#\project-c#\bin\Debug\project-c#.pdb
+D:\Users\ohood\source\repos\project-c#\project-c#\obj\Debug\project-c#.exe
+D:\Users\ohood\source\repos\project-c#\project-c#\obj\Debug\project-c#.pdb
